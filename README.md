@@ -44,7 +44,7 @@ ai-success-planner/
 
 ---
 
-## ⚙️ Prerequisites
+##  Prerequisites
 
 1. **Install Python 3.10+**
 2. **Install Ollama** → [https://ollama.com/download](https://ollama.com/download)
@@ -98,7 +98,7 @@ Month 2: React.js basics + first project...
 
 ---
 
-## 🧩 Configuration
+##  Configuration
 
 The model name is set in `ai/ollama_client.py`:
 
